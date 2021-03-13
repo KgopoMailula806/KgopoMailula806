@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KgopoMailula806
+- 👋 Hi, I’m Kgopo
 - 👀 I’m interested in A.I Technologies
 - 🌱 I’m currently learning native graphic implemetation, A.I and Information security
 - 💞️ I’m looking to collaborate on nothing at the moment, don't have time
