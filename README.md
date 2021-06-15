@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kgopo
-- 👀 I’m interested in A.I Technologies
+- 👀 I’m interested in A.I and Mobile programming
 - 🌱 I’m currently learning A.I and Information security
 - 📫 How to reach me: , dm me at https://www.linkedin.com/in/kgothatso-mailula-103b681a4/
 
