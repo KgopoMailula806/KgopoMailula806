@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Kgopo
 - 👀 I’m interested in A.I Technologies
-- 🌱 I’m currently learning native graphic implemetation, A.I and Information security
-- 💞️ I’m looking to collaborate on nothing at the moment, don't have time
+- 🌱 I’m currently learning A.I and Information security
 - 📫 How to reach me: , dm me at https://www.linkedin.com/in/kgothatso-mailula-103b681a4/
 
 <!---
