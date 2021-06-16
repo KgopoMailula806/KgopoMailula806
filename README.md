@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kgopo
 - 👀 I’m interested in Machine learning and Mobile programming
-- 🌱 I’m currently learning machine learning, and Natural language processing and Node.js development
+- 🌱 I’m currently learning machine learning with Natural language processing and Node.js development
 - 📫 How to reach me: , dm me at https://www.linkedin.com/in/kgothatso-mailula-103b681a4/
 
 <!---
